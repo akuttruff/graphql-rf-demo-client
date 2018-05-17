@@ -1,5 +1,5 @@
 # graphql-rf-demo-client
-### Sample Apollo client React application for Renew Financial tech talk
+### Sample Apollo client React application for [Renew Financial tech talk](http://amiekuttruff.com/talks#graph-ql)
 
 
 This talk and the following code samples borrow heavily from [Eve Porcello](https://github.com/eveporcello)'s GraphQL Workshop. I have rebuilt the schema using types and queries relevant to my work at Renew Financial, where we build software to help make clean energy financing available to homeowners. 
